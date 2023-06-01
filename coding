@@ -1,0 +1,8 @@
+name = input("Enter the your name: ")
+print("Hello " + name + " welcome to learning coding with me")
+import math
+volumeincm = round(math.pi * (radius ** 2) * height)
+radius = int(input("Enter the radius value: "))
+height = int(input("Enter the height value: ")
+print("The value of your height is " + str(volumeincm) + " cm")
+print("Thank you " + name + " For learning how to code with me,i really appreciate it")
